@@ -1,9 +1,8 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
+  height: 100vh;
+  width: 100vw;
+  background-color: #f2f2f2;
 }
 
 .App-header {
